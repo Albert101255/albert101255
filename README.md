@@ -246,6 +246,16 @@ class AbrahamAlbert:
 
 ---
 
+<!-- CERTIFICATIONS -->
+## 📜 Certifications
+
+- **English Essentials** — STEP, The Hindu Group | Naan Mudhalvan, Government of Tamil Nadu | Score: 70%
+- **Digital Skills** — Microsoft | Naan Mudhalvan, Government of Tamil Nadu | Score: 80%
+- **Employability Skills** — Edunet Foundation (IBM SkillsBuild) | Naan Mudhalvan, Government of Tamil Nadu | Score: 100%
+- **Electric Vehicle Technology** — Pantech | Naan Mudhalvan, Government of Tamil Nadu | Score: 90%
+
+---
+
 <!-- EDUCATION + CURRENTLY LEARNING + FOOTER -->
 ## 🎓 Education
 
