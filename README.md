@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:abrahamalbert1012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/abrahamalbert18"><img src="https://img.shields.io/badge/GitHub-abrahamalbert18-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Albert101255"><img src="https://img.shields.io/badge/GitHub-Albert101255-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/abrahamalbert18"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-orange?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Available%20Full--Time-brightgreen?style=flat-square" />
@@ -103,23 +103,23 @@ class AbrahamAlbert:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrahamalbert18&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamalbert18&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Albert101255&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert101255&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
 </p>
 
 <!-- STREAK STATS -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=abrahamalbert18&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Albert101255&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
 </p>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrahamalbert18&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert101255&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph" />
 </p>
 
 <!-- TROPHY WALL -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abrahamalbert18&theme=twodark&no-bg=true&no-frame=true&column=6" alt="Trophy Wall" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Albert101255&theme=twodark&no-bg=true&no-frame=true&column=6" alt="Trophy Wall" />
 </p>
 
 ---
@@ -150,7 +150,7 @@ class AbrahamAlbert:
 - **Designed a normalised MySQL schema** across 6 tables with multi-table joins and stored procedures, eliminating data-integrity errors.
 - **Delivered the full API lifecycle** using Django REST Framework; managed feature branches and pull requests following Agile sprint structure.
 
-🔗 [github.com/abrahamalbert18/leave-mgmt](https://github.com/abrahamalbert18/leave-mgmt)
+🔗 [github.com/Albert101255/leave-mgmt](https://github.com/Albert101255/leave-mgmt)
 
 </details>
 
@@ -163,7 +163,7 @@ class AbrahamAlbert:
 - **Achieved 85% unit-test coverage** with JUnit 5 and Mockito; CI pipeline via GitHub Actions runs on every push to main.
 - **Managed MySQL schema migrations** with Spring Data JPA and Hibernate; all changes version-controlled with feature branches.
 
-🔗 [github.com/abrahamalbert18/springboot-employee-api](https://github.com/abrahamalbert18/springboot-employee-api)
+🔗 [github.com/Albert101255/springboot-employee-api](https://github.com/Albert101255/springboot-employee-api)
 
 </details>
 
@@ -176,7 +176,7 @@ class AbrahamAlbert:
 - **Achieved 87% validation accuracy** using TF-IDF feature extraction and hyperparameter tuning with scikit-learn cross-validation.
 - **Integrated into issue-tracking workflows** via a Flask REST API with a JIRA-compatible JSON interface for zero-friction adoption.
 
-🔗 [github.com/abrahamalbert18/bug-classifier](https://github.com/abrahamalbert18/bug-classifier)
+🔗 [github.com/Albert101255/bug-classifier](https://github.com/Albert101255/bug-classifier)
 
 </details>
 
@@ -189,7 +189,7 @@ class AbrahamAlbert:
 - **Deployed to AWS EC2**, sustaining 50 concurrent users in load testing without errors.
 - **Enforced role-based access control** for student, faculty, and admin tiers with session-based login.
 
-🔗 [github.com/abrahamalbert18/result-portal](https://github.com/abrahamalbert18/result-portal)
+🔗 [github.com/Albert101255/result-portal](https://github.com/Albert101255/result-portal)
 
 </details>
 
@@ -202,7 +202,7 @@ class AbrahamAlbert:
 - **Authored 15 SQL queries** using multi-table joins, GROUP BY aggregations, and window functions on a 50,000-row retail dataset.
 - **Cleaned and standardised 50,000 rows** with Pandas, resolving missing values, duplicates, and inconsistent date formats.
 
-🔗 [github.com/abrahamalbert18/sales-dashboard](https://github.com/abrahamalbert18/sales-dashboard)
+🔗 [github.com/Albert101255/sales-dashboard](https://github.com/Albert101255/sales-dashboard)
 
 </details>
 
@@ -216,11 +216,11 @@ class AbrahamAlbert:
 | Project | Stack | Key Metric |
 |:--------|:------|:-----------|
 | [🛒 E-Commerce API](https://e-commerce-product-catalogue.onrender.com/) | FastAPI · PostgreSQL · Docker · GitHub Actions | **35% faster** response time · 80% test coverage |
-| [📋 Leave Management System](https://github.com/abrahamalbert18/leave-mgmt) | Django · DRF · MySQL | **60% reduction** in HR processing time |
-| [👔 Employee Directory API](https://github.com/abrahamalbert18/springboot-employee-api) | Spring Boot · Java · MySQL · JUnit 5 | **85% unit-test coverage** · Full CI/CD |
-| [🐛 Bug Classifier](https://github.com/abrahamalbert18/bug-classifier) | Python · scikit-learn · NLP · Flask | **87% validation accuracy** · 40% triage reduction |
-| [🎓 Student Result Portal](https://github.com/abrahamalbert18/result-portal) | Flask · MySQL · AWS EC2 | **83% faster** response · 10k+ records |
-| [📊 Sales Dashboard](https://github.com/abrahamalbert18/sales-dashboard) | Python · SQL · Power BI · Pandas | 3 hrs → **<10 min** report generation |
+| [📋 Leave Management System](https://github.com/Albert101255/leave-mgmt) | Django · DRF · MySQL | **60% reduction** in HR processing time |
+| [👔 Employee Directory API](https://github.com/Albert101255/springboot-employee-api) | Spring Boot · Java · MySQL · JUnit 5 | **85% unit-test coverage** · Full CI/CD |
+| [🐛 Bug Classifier](https://github.com/Albert101255/bug-classifier) | Python · scikit-learn · NLP · Flask | **87% validation accuracy** · 40% triage reduction |
+| [🎓 Student Result Portal](https://github.com/Albert101255/result-portal) | Flask · MySQL · AWS EC2 | **83% faster** response · 10k+ records |
+| [📊 Sales Dashboard](https://github.com/Albert101255/sales-dashboard) | Python · SQL · Power BI · Pandas | 3 hrs → **<10 min** report generation |
 
 </div>
 
@@ -277,7 +277,7 @@ class AbrahamAlbert:
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/abrahamalbert18">
+  <a href="https://github.com/Albert101255">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
