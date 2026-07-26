@@ -137,7 +137,7 @@ class AbrahamAlbert:
 - **Eliminated 30-minute environment setup** by containerising the full stack with Docker Compose for single-command spin-up.
 - **Secured all 12 REST endpoints** with JWT authentication; managed changes via Git pull requests and code review.
 
-🔗 [github.com/abrahamalbert18/ecommerce-api](https://github.com/abrahamalbert18/ecommerce-api)
+🔗 [e-commerce-product-catalogue.onrender.com](https://e-commerce-product-catalogue.onrender.com/)
 
 </details>
 
@@ -215,7 +215,7 @@ class AbrahamAlbert:
 
 | Project | Stack | Key Metric |
 |:--------|:------|:-----------|
-| [🛒 E-Commerce API](https://github.com/abrahamalbert18/ecommerce-api) | FastAPI · PostgreSQL · Docker · GitHub Actions | **35% faster** response time · 80% test coverage |
+| [🛒 E-Commerce API](https://e-commerce-product-catalogue.onrender.com/) | FastAPI · PostgreSQL · Docker · GitHub Actions | **35% faster** response time · 80% test coverage |
 | [📋 Leave Management System](https://github.com/abrahamalbert18/leave-mgmt) | Django · DRF · MySQL | **60% reduction** in HR processing time |
 | [👔 Employee Directory API](https://github.com/abrahamalbert18/springboot-employee-api) | Spring Boot · Java · MySQL · JUnit 5 | **85% unit-test coverage** · Full CI/CD |
 | [🐛 Bug Classifier](https://github.com/abrahamalbert18/bug-classifier) | Python · scikit-learn · NLP · Flask | **87% validation accuracy** · 40% triage reduction |
