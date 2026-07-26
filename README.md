@@ -11,7 +11,7 @@
 <p align="center">
   <a href="mailto:abrahamalbert1012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Albert101255"><img src="https://img.shields.io/badge/GitHub-Albert101255-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/abrahamalbert18"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abraham-albert-6473793a0"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-orange?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Available%20Full--Time-brightgreen?style=flat-square" />
 </p>
@@ -281,7 +281,7 @@ class AbrahamAlbert:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/abrahamalbert18">
+  <a href="https://www.linkedin.com/in/abraham-albert-6473793a0">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
