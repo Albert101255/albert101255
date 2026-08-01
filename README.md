@@ -294,6 +294,10 @@ class AbrahamAlbert:
   <a href="https://www.linkedin.com/in/abraham-albert-6473793a0">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.instagram.com/resuscitating_10?igsh=MWpncWdzMXJ4a2ZuZw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
