@@ -25,7 +25,7 @@
 class AbrahamAlbert:
     name: str = "R. Abraham Albert"
     location: str = "Chennai, India"
-    degree: str = "B.E. Computer Science & Engineering (Lateral Entry) — SRM Eswari, 2026–2029"
+    degree: str = "B.E. Computer Science & Engineering — SRM Eswari, 2026–2029"
 
     stack: list[str] = [
         "Python", "Java", "C++", "SQL", "JavaScript",
@@ -263,7 +263,7 @@ class AbrahamAlbert:
 
 | Degree | Institution | Timeline | Status |
 |:-------|:-----------|:---------|:-------|
-| B.E. Computer Science & Engineering (Lateral Entry) | SRM Eswari Engineering College, Chennai | 2026 – 2029 | 🟢 Pursuing · Available Full-Time · No Active Arrears |
+| B.E. Computer Science & Engineering | SRM Eswari Engineering College, Chennai | 2026 – 2029 | 🟢 Pursuing · Available Full-Time · No Active Arrears |
 | Diploma in Electrical & Electronics Engineering | Thiru Seven Hills Polytechnic, Chennai | Jun 2023 – May 2026 | ✅ Completed · No Active Arrears |
 
 </div>
