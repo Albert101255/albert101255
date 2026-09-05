@@ -1,12 +1,4 @@
-<!-- HERO BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=R.%20Abraham%20Albert&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Python%20%26%20Java%20%7C%20Building%20Production-Ready%20APIs&descAlignY=62&descSize=16" alt="Hero Banner" />
-</p>
-
-<!-- TYPING HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Backend+%26+Full-Stack+Engineer;Python+%7C+Java+%7C+C%2B%2B+Developer;FastAPI+%7C+Django+%7C+Spring+Boot;Building+APIs+that+Scale+to+Production" alt="Typing SVG" />
-</p>
+<h1 align="center">Computer Science Student</h1>
 
 <p align="center">
   <a href="mailto:abrahamalbert1012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
