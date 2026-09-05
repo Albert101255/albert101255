@@ -92,31 +92,6 @@ class AbrahamAlbert:
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Albert101255&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert101255&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
-</p>
-
-<!-- STREAK STATS -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Albert101255&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert101255&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph" />
-</p>
-
-<!-- TROPHY WALL -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Albert101255&theme=twodark&no-bg=true&no-frame=true&column=6" alt="Trophy Wall" />
-</p>
-
----
-
 <!-- WORK EXPERIENCE / PROJECTS (used as experience since resume is project-driven) -->
 ## 💼 Work Experience & Projects
 
