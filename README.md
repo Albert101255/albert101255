@@ -11,7 +11,7 @@
 
 ## About me
 
-I started in Electrical & Electronics Engineering and later moved into Computer Science. My current focus is learning by building: backend systems, DSA visualizations, Linux desktop experiments, and full-stack applications.
+I’m a Computer Science Engineering student focused on building practical software, strengthening my problem-solving skills, and learning through hands-on projects.
 
 I prefer documenting projects with runnable code, architecture notes, limitations and what I learned rather than relying on technology badges alone.
 
