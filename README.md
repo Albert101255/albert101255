@@ -1,277 +1,90 @@
-<h1 align="center">Computer Science Student</h1>
+<h1 align="center">R. Abraham Albert</h1>
 
 <p align="center">
-  <a href="mailto:abrahamalbert1012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Albert101255"><img src="https://img.shields.io/badge/GitHub-Albert101255-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abraham-albert-6473793a0"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/resuscitating_10?igsh=MWpncWdzMXJ4a2ZuZw=="><img src="https://img.shields.io/badge/Instagram-resuscitating__10-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-orange?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Available%20Full--Time-brightgreen?style=flat-square" />
-</p>
-
----
-
-<!-- CODE-BLOCK ABOUT ME -->
-## 🧑‍💻 About Me
-
-```python
-class AbrahamAlbert:
-    name: str = "R. Abraham Albert"
-    location: str = "Chennai, India"
-    degree: str = "B.E. Computer Science & Engineering — SRM Eswari, 2026–2029"
-
-    stack: list[str] = [
-        "Python", "Java", "C++", "SQL", "JavaScript",
-        "FastAPI", "Django", "Spring Boot", "Flask",
-        "PostgreSQL", "MySQL", "Docker", "AWS EC2", "GitHub Actions"
-    ]
-
-    currently_learning: list[str] = [
-        "Spring Boot (production CRUD REST APIs)",
-        "System Design & Scalability Patterns",
-        "Advanced PostgreSQL tuning",
-        "Azure Fundamentals (AZ-900)"
-    ]
-
-    fun_fact: str = (
-        "Started in Electrical Engineering — rewired my brain for software. "
-        "Now I debug code instead of circuits."
-    )
-
-    def motto(self) -> str:
-        return "Ship clean code, test early, measure everything."
-```
-
----
-
-<!-- TECH BADGES -->
-## 🛠 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-FF1709?style=flat-square&logo=django&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
-
----
-
-<!-- WORK EXPERIENCE / PROJECTS (used as experience since resume is project-driven) -->
-## 💼 Work Experience & Projects
-
-<details>
-<summary><strong>E-Commerce Product Catalogue API</strong> — FastAPI + PostgreSQL + Docker | Personal Project</summary>
-
-<br/>
-
-- **Cut average API response time by 35%** across 12 endpoints by resolving N+1 query patterns and adding targeted PostgreSQL indexes.
-- **Achieved 80% unit-test coverage** with Pytest, catching 3 critical edge-case bugs pre-merge; applied shift-left QA principles.
-- **Eliminated 30-minute environment setup** by containerising the full stack with Docker Compose for single-command spin-up.
-- **Secured all 12 REST endpoints** with JWT authentication; managed changes via Git pull requests and code review.
-
-🔗 [e-commerce-product-catalogue.onrender.com](https://e-commerce-product-catalogue.onrender.com/)
-
-</details>
-
-<details>
-<summary><strong>Employee Leave Management System</strong> — Django + MySQL + DRF | Personal Project</summary>
-
-<br/>
-
-- **Reduced HR processing time by 60%** by replacing manual spreadsheet workflows with a role-based web portal (employee, manager, admin dashboards).
-- **Designed a normalised MySQL schema** across 6 tables with multi-table joins and stored procedures, eliminating data-integrity errors.
-- **Delivered the full API lifecycle** using Django REST Framework; managed feature branches and pull requests following Agile sprint structure.
-
-🔗 [github.com/Albert101255/leave-mgmt](https://github.com/Albert101255/leave-mgmt)
-
-</details>
-
-<details>
-<summary><strong>Employee Directory REST API</strong> — Spring Boot + Java + MySQL | Personal Project</summary>
-
-<br/>
-
-- **Built a production-ready REST API** with Spring Boot exposing full CRUD endpoints following MVC architecture (controller → service → repository).
-- **Achieved 85% unit-test coverage** with JUnit 5 and Mockito; CI pipeline via GitHub Actions runs on every push to main.
-- **Managed MySQL schema migrations** with Spring Data JPA and Hibernate; all changes version-controlled with feature branches.
-
-🔗 [github.com/Albert101255/springboot-employee-api](https://github.com/Albert101255/springboot-employee-api)
-
-</details>
-
-<details>
-<summary><strong>Automated Bug Report Classifier</strong> — Python + NLP + Flask | Personal Project</summary>
-
-<br/>
-
-- **Reduced manual triage time by 40%** by training a Naive Bayes NLP classifier on 2,000 labelled bug reports to surface critical issues automatically.
-- **Achieved 87% validation accuracy** using TF-IDF feature extraction and hyperparameter tuning with scikit-learn cross-validation.
-- **Integrated into issue-tracking workflows** via a Flask REST API with a JIRA-compatible JSON interface for zero-friction adoption.
-
-🔗 [github.com/Albert101255/bug-classifier](https://github.com/Albert101255/bug-classifier)
-
-</details>
-
-<details>
-<summary><strong>Student Result Portal</strong> — Flask + MySQL + AWS EC2 | Personal Project</summary>
-
-<br/>
-
-- **Reduced result-fetch response time by 83%** — from 1.8 s to under 0.3 s for 10,000+ student records — by redesigning MySQL schema with indexed lookups.
-- **Deployed to AWS EC2**, sustaining 50 concurrent users in load testing without errors.
-- **Enforced role-based access control** for student, faculty, and admin tiers with session-based login.
-
-🔗 [github.com/Albert101255/result-portal](https://github.com/Albert101255/result-portal)
-
-</details>
-
-<details>
-<summary><strong>Sales Data Analytics Dashboard</strong> — Python + SQL + Power BI | Personal Project</summary>
-
-<br/>
-
-- **Slashed weekly report generation from 3 hours to under 10 minutes** via an interactive Power BI dashboard with 6 KPI visualisations.
-- **Authored 15 SQL queries** using multi-table joins, GROUP BY aggregations, and window functions on a 50,000-row retail dataset.
-- **Cleaned and standardised 50,000 rows** with Pandas, resolving missing values, duplicates, and inconsistent date formats.
-
-🔗 [github.com/Albert101255/sales-dashboard](https://github.com/Albert101255/sales-dashboard)
-
-</details>
-
----
-
-<!-- FEATURED PROJECTS TABLE -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Key Metric |
-|:--------|:------|:-----------|
-| [🛒 E-Commerce API](https://e-commerce-product-catalogue.onrender.com/) | FastAPI · PostgreSQL · Docker · GitHub Actions | **35% faster** response time · 80% test coverage |
-| [📋 Leave Management System](https://github.com/Albert101255/leave-mgmt) | Django · DRF · MySQL | **60% reduction** in HR processing time |
-| [👔 Employee Directory API](https://github.com/Albert101255/springboot-employee-api) | Spring Boot · Java · MySQL · JUnit 5 | **85% unit-test coverage** · Full CI/CD |
-| [🐛 Bug Classifier](https://github.com/Albert101255/bug-classifier) | Python · scikit-learn · NLP · Flask | **87% validation accuracy** · 40% triage reduction |
-| [🎓 Student Result Portal](https://github.com/Albert101255/result-portal) | Flask · MySQL · AWS EC2 | **83% faster** response · 10k+ records |
-| [📊 Sales Dashboard](https://github.com/Albert101255/sales-dashboard) | Python · SQL · Power BI · Pandas | 3 hrs → **<10 min** report generation |
-
-</div>
-
----
-
-<!-- ACHIEVEMENTS -->
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🏅 Achievement | 📋 Details |
-|:---------------|:-----------|
-| ✅ 80–87% Test Coverage | Across all projects, practising shift-left QA principles |
-| 🐳 Docker Containerisation | Eliminated 30-min setup delays via single-command Docker Compose |
-| ☁️ AWS EC2 Deployment | Live production deployment sustaining 50 concurrent users |
-| 🤖 ML Classifier (87% Accuracy) | NLP bug classifier reducing manual triage by 40% |
-| 🔄 CI/CD Pipelines | GitHub Actions pipelines on every push across Python & Java projects |
-| 🎓 Python for Everybody Specialisation | University of Michigan via Coursera — Completed May 2025 |
-| ☁️ AWS Cloud Practitioner (CLF-C02) | Amazon Web Services — Certified |
-| 🖥️ Back End Development & APIs | freeCodeCamp — Certified |
-
-</div>
-
----
-
-<!-- CERTIFICATIONS -->
-## 📜 Certifications
-
-- **English Essentials** — STEP, The Hindu Group | Naan Mudhalvan, Government of Tamil Nadu | Score: 70%
-- **Digital Skills** — Microsoft | Naan Mudhalvan, Government of Tamil Nadu | Score: 80%
-- **Employability Skills** — Edunet Foundation (IBM SkillsBuild) | Naan Mudhalvan, Government of Tamil Nadu | Score: 100%
-- **Electric Vehicle Technology** — Pantech | Naan Mudhalvan, Government of Tamil Nadu | Score: 90%
-
----
-
-<!-- EDUCATION + CURRENTLY LEARNING + FOOTER -->
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Timeline | Status |
-|:-------|:-----------|:---------|:-------|
-| B.E. Computer Science & Engineering | SRM Eswari Engineering College, Chennai | 2026 – 2029 | 🟢 Pursuing · Available Full-Time |
-| Diploma in Electrical & Electronics Engineering | Thiru Seven Hills Polytechnic, Chennai | Jun 2023 – May 2026 | ✅ Completed |
-
-</div>
-
----
-
-## 📚 Currently Focusing On
-
-```text
-🔧  Spring Boot   ━━━━━━━━━━━━━━━━━━━━━━━━━░   Production REST APIs (CRUD + JPA)
-☁️  AWS / Azure   ━━━━━━━━━━━━━━━━━━━░░░░░░░   Cloud deployments & certifications
-🏗️  System Design ━━━━━━━━━━━━━━━░░░░░░░░░░░   Scalability patterns & architecture
-🐘  PostgreSQL    ━━━━━━━━━━━━━━━━━━━░░░░░░░   Advanced query optimisation & indexes
-```
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <a href="mailto:abrahamalbert1012@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Albert101255">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abraham-albert-6473793a0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/resuscitating_10?igsh=MWpncWdzMXJ4a2ZuZw==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  Computer Science Engineering student in Chennai building software across Java, Python, C++ and Linux.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <a href="https://github.com/Albert101255">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/abraham-albert-6473793a0">LinkedIn</a>
 </p>
 
-<p align="center">
-  <em>⚡ "Ship clean code, test early, measure everything."</em>
-</p>
+## About me
+
+I started in Electrical & Electronics Engineering and later moved into Computer Science. My current focus is learning by building: backend systems, DSA visualizations, Linux desktop experiments, and full-stack applications.
+
+I prefer documenting projects with runnable code, architecture notes, limitations and what I learned rather than relying on technology badges alone.
+
+## Featured projects
+
+### Smart Campus Complaint & Maintenance System
+**Java · Spring Boot · Spring Security · MySQL/H2**
+
+Role-based campus maintenance workflow for student complaints, administrator assignment, technician progress, SLA tracking, reporting and feedback.
+
+→ https://github.com/Albert101255/smart-campus-maintenance
+
+### Bug Report Triage Platform
+**Python · FastAPI · React · scikit-learn · PostgreSQL · Docker**
+
+Human-in-the-loop bug routing application using TF-IDF + Logistic Regression, uncertainty handling, feedback capture and monitoring tooling.
+
+→ https://github.com/Albert101255/bug-report-classifier
+
+### PathForge
+**C++17 · SFML · CMake · DSA**
+
+Interactive visualizer for A*, Dijkstra, BFS and DFS with an SFML grid interface.
+
+→ https://github.com/Albert101255/PathForge
+
+### Albert macOS Dock
+**GNOME Shell · JavaScript · GSettings · Linux**
+
+A customization project based on Dash to Dock, focused on macOS-style magnification and dock interaction behavior.
+
+→ https://github.com/Albert101255/albert-macos-dock
+
+### Apex Commerce
+**FastAPI · SQLAlchemy · PostgreSQL · Redis · Celery**
+
+E-commerce API/storefront project with authentication, product variants, carts, orders and tracking.
+
+→ https://github.com/Albert101255/E-Commerce-Product-Catalogue
+
+### StockForge
+**React · Express · Prisma · PostgreSQL**
+
+Inventory management project with stock tracking, roles, categories, soft deletion and dashboard views.
+
+→ https://github.com/Albert101255/-StockForge-Multi-Platform-Inventory-Management-System
+
+## Current skills I am actively using
+
+**Languages:** Python, Java, C++, JavaScript, SQL  
+**Backend:** Spring Boot, FastAPI, Flask, Express  
+**Data:** MySQL, PostgreSQL, SQLite, Prisma, SQLAlchemy  
+**Tools:** Git, Docker, Linux, CMake, Maven  
+**Currently strengthening:** DSA, Java/Spring, Python, system design fundamentals
+
+## What I am learning publicly
+
+I am using GitHub as an engineering journal. For each serious project I want to document:
+
+- the problem
+- architecture
+- important implementation decisions
+- limitations
+- screenshots/demo
+- testing
+- what I learned
+- what I would improve next
+
+## Education
+
+- **B.E. Computer Science & Engineering** — SRM Easwari Engineering College, Chennai — 2026–2029
+- **Diploma in Electrical & Electronics Engineering** — Thiru Seven Hills Polytechnic College — 2023–2026
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/abraham-albert-6473793a0
