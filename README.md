@@ -26,9 +26,10 @@ I am interested in software engineering, backend, DevOps/cloud and QA automation
 | Project | Engineering focus | Stack |
 |---|---|---|
 | **[Bug Report Triage Platform](https://github.com/Albert101255/bug-report-classifier)** | Human-in-the-loop bug classification, uncertainty review, audit history, monitoring and containerized services | FastAPI, React, scikit-learn, PostgreSQL, Redis, Celery, Docker |
-| **[Smart Campus Maintenance](https://github.com/Albert101255/smart-campus-maintenance)** | Role-based complaint workflow, technician assignment, SLA tracking, reporting and feedback | Java, Spring Boot, Spring Security, JPA, MySQL/H2 |
+| **[ReverseLab](https://github.com/Albert101255/reverselab)** | Ghidra-style web reverse-engineering workstation with PE/ELF/DEX binary analysis, Capstone disassembly, P-Code IR and C AST pseudocode recovery | FastAPI, React 18, TypeScript, Capstone, PEFile, PyELFTools, Docker |
+| **[Smart Campus Maintenance](https://github.com/Albert101255/smart-campus-maintenance)** | Role-based complaint workflow, technician assignment, SLA tracking, reporting and feedback | Java, Spring Boot, Spring Security, JPA, MySQL/H2, Docker |
 | **[Apex Commerce](https://github.com/Albert101255/E-Commerce-Product-Catalogue)** | Authentication, product variants, carts, orders, tracking and asynchronous backend tasks | FastAPI, SQLAlchemy, PostgreSQL, Redis, Celery, Pytest |
-| **[PathForge](https://github.com/Albert101255/PathForge)** | Interactive visualization of A*, Dijkstra, BFS and DFS with algorithm/UI separation | C++17, SFML, CMake, DSA |
+| **[PathForge](https://github.com/Albert101255/PathForge)** | Interactive visualization of A*, Dijkstra, BFS and DFS with decoupled algorithm engine and CTest unit tests | C++17, SFML, CMake, CTest, DSA |
 
 ## Engineering focus
 
@@ -41,17 +42,17 @@ I am interested in software engineering, backend, DevOps/cloud and QA automation
 
 ## Core stack
 
-**Languages:** Java, Python, C++, JavaScript, SQL  
+**Languages:** Java, Python, C++, TypeScript, JavaScript, SQL  
 **Backend:** Spring Boot, FastAPI, Flask, Express  
 **Databases:** PostgreSQL, MySQL, SQLite  
-**Tools:** Git, Docker, Linux, Maven, CMake  
+**Tools:** Git, Docker, Linux, Maven, CMake, GitHub Actions  
 **Also using:** Redis, Celery, Prisma, SQLAlchemy, React
 
 ## Other projects
 
-- **[StockForge](https://github.com/Albert101255/-StockForge-Multi-Platform-Inventory-Management-System)** — inventory management with stock tracking, roles, audit history and dashboard views.
-- **[ReverseLab](https://github.com/Albert101255/reverselab)** — experimental reverse-engineering workspace exploring binary inspection and Ghidra-inspired analysis workflows.
-- **[Albert macOS Dock](https://github.com/Albert101255/albert-macos-dock)** — GNOME Shell customization focused on macOS-style dock interaction and magnification behavior.
+- **[StockForge](https://github.com/Albert101255/-StockForge-Multi-Platform-Inventory-Management-System)** — full-stack inventory management with transactional stock tracking, RBAC, soft-delete recovery, audit history and dashboard views (React, Express, Prisma).
+- **[STOCKR](https://github.com/Albert101255/Smart-Inventory-System-)** — Flask & SQLAlchemy inventory management system with 30-day consumption velocity stockout forecasting and automated low-stock alerts.
+- **[Albert macOS Dock](https://github.com/Albert101255/albert-macos-dock)** — GNOME Shell customization focused on smooth cosine-interpolated macOS-style dock magnification and neighbor displacement.
 
 ## Current priorities
 
