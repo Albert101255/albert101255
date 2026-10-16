@@ -1,7 +1,11 @@
 <h1 align="center">R. Abraham Albert</h1>
 
 <p align="center">
-  Computer Science Engineering student in Chennai building software across Java, Python, C++ and Linux.
+  <strong>Computer Science Engineering Student | Software & Backend Development</strong>
+</p>
+
+<p align="center">
+  Java · Python · C++ · FastAPI · Spring Boot · Docker · Linux · SQL
 </p>
 
 <p align="center">
@@ -9,82 +13,56 @@
   <a href="https://www.linkedin.com/in/abraham-albert-6473793a0">LinkedIn</a>
 </p>
 
-## About me
+## About
 
-I’m a Computer Science Engineering student focused on building practical software, strengthening my problem-solving skills, and learning through hands-on projects.
+I am a Computer Science Engineering student at SRM Easwari Engineering College, Chennai, focused on building practical software and backend systems.
 
-I prefer documenting projects with runnable code, architecture notes, limitations and what I learned rather than relying on technology badges alone.
+My projects currently center on API development, authentication and role-based workflows, relational data modelling, automation, developer tooling and applied machine learning. I am strengthening my problem-solving skills through DSA while improving my Java/Spring, Python backend, Docker and Linux workflow.
 
-## Featured projects
+I am interested in software engineering, backend, DevOps/cloud and QA automation internship opportunities.
 
-### Smart Campus Complaint & Maintenance System
-**Java · Spring Boot · Spring Security · MySQL/H2**
+## Featured work
 
-Role-based campus maintenance workflow for student complaints, administrator assignment, technician progress, SLA tracking, reporting and feedback.
+| Project | Engineering focus | Stack |
+|---|---|---|
+| **[Bug Report Triage Platform](https://github.com/Albert101255/bug-report-classifier)** | Human-in-the-loop bug classification, uncertainty review, audit history, monitoring and containerized services | FastAPI, React, scikit-learn, PostgreSQL, Redis, Celery, Docker |
+| **[Smart Campus Maintenance](https://github.com/Albert101255/smart-campus-maintenance)** | Role-based complaint workflow, technician assignment, SLA tracking, reporting and feedback | Java, Spring Boot, Spring Security, JPA, MySQL/H2 |
+| **[Apex Commerce](https://github.com/Albert101255/E-Commerce-Product-Catalogue)** | Authentication, product variants, carts, orders, tracking and asynchronous backend tasks | FastAPI, SQLAlchemy, PostgreSQL, Redis, Celery, Pytest |
+| **[PathForge](https://github.com/Albert101255/PathForge)** | Interactive visualization of A*, Dijkstra, BFS and DFS with algorithm/UI separation | C++17, SFML, CMake, DSA |
 
-→ https://github.com/Albert101255/smart-campus-maintenance
+## Engineering focus
 
-### Bug Report Triage Platform
-**Python · FastAPI · React · scikit-learn · PostgreSQL · Docker**
+- Backend and REST API development
+- Authentication, authorization and role-based workflows
+- SQL databases and relational data modelling
+- Docker, Linux and reproducible development environments
+- Testing, CI and code-quality tooling
+- Data structures, algorithms and pathfinding
 
-Human-in-the-loop bug routing application using TF-IDF + Logistic Regression, uncertainty handling, feedback capture and monitoring tooling.
+## Core stack
 
-→ https://github.com/Albert101255/bug-report-classifier
-
-### PathForge
-**C++17 · SFML · CMake · DSA**
-
-Interactive visualizer for A*, Dijkstra, BFS and DFS with an SFML grid interface.
-
-→ https://github.com/Albert101255/PathForge
-
-### Albert macOS Dock
-**GNOME Shell · JavaScript · GSettings · Linux**
-
-A customization project based on Dash to Dock, focused on macOS-style magnification and dock interaction behavior.
-
-→ https://github.com/Albert101255/albert-macos-dock
-
-### Apex Commerce
-**FastAPI · SQLAlchemy · PostgreSQL · Redis · Celery**
-
-E-commerce API/storefront project with authentication, product variants, carts, orders and tracking.
-
-→ https://github.com/Albert101255/E-Commerce-Product-Catalogue
-
-### StockForge
-**React · Express · Prisma · PostgreSQL**
-
-Inventory management project with stock tracking, roles, categories, soft deletion and dashboard views.
-
-→ https://github.com/Albert101255/-StockForge-Multi-Platform-Inventory-Management-System
-
-## Current skills I am actively using
-
-**Languages:** Python, Java, C++, JavaScript, SQL  
+**Languages:** Java, Python, C++, JavaScript, SQL  
 **Backend:** Spring Boot, FastAPI, Flask, Express  
-**Data:** MySQL, PostgreSQL, SQLite, Prisma, SQLAlchemy  
-**Tools:** Git, Docker, Linux, CMake, Maven  
-**Currently strengthening:** DSA, Java/Spring, Python, system design fundamentals
+**Databases:** PostgreSQL, MySQL, SQLite  
+**Tools:** Git, Docker, Linux, Maven, CMake  
+**Also using:** Redis, Celery, Prisma, SQLAlchemy, React
 
-## What I am learning publicly
+## Other projects
 
-I am using GitHub as an engineering journal. For each serious project I want to document:
+- **[StockForge](https://github.com/Albert101255/-StockForge-Multi-Platform-Inventory-Management-System)** — inventory management with stock tracking, roles, audit history and dashboard views.
+- **[ReverseLab](https://github.com/Albert101255/reverselab)** — experimental reverse-engineering workspace exploring binary inspection and Ghidra-inspired analysis workflows.
+- **[Albert macOS Dock](https://github.com/Albert101255/albert-macos-dock)** — GNOME Shell customization focused on macOS-style dock interaction and magnification behavior.
 
-- the problem
-- architecture
-- important implementation decisions
-- limitations
-- screenshots/demo
-- testing
-- what I learned
-- what I would improve next
+## Current priorities
+
+I am currently working on making my strongest repositories easier to evaluate by improving demos, screenshots, automated tests, CI visibility, architecture documentation and deployment quality.
 
 ## Education
 
-- **B.E. Computer Science & Engineering** — SRM Easwari Engineering College, Chennai — 2026–2029
-- **Diploma in Electrical & Electronics Engineering** — Thiru Seven Hills Polytechnic College — 2023–2026
+**B.E. Computer Science & Engineering**  
+SRM Easwari Engineering College, Chennai
 
-## Contact
+## Connect
 
-LinkedIn: https://www.linkedin.com/in/abraham-albert-6473793a0
+- LinkedIn: https://www.linkedin.com/in/abraham-albert-6473793a0
+- GitHub: https://github.com/Albert101255
